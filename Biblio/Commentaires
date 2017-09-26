@@ -5,8 +5,15 @@ Quantitating the cell: turning images into numbers with ImageJ :
 A priori y a rien d'interessant...
 
 A Novel Method... : done
-Particle size... : done
+Particle size... : done, use Feret's diameter
+Shape identification... : Plugin pour décrire la forme de la particule et determiner la best fitted elipse
+SParticles... : bof
 
 
 livre : 
 http://www.geo.uzh.ch/microsite/rsl-documents/research/SARlab/GMTILiterature/Ver09/PDF/1142_fm.pdf
+
+Plugins :
+- pour best fitted elipse :
+Rodieck, B., 2007. EllipseFitter Class of ImageJ. http://rsb.info.nih.
+gov/ij/developer/source/ij/process/EllipseFitter.java.html
