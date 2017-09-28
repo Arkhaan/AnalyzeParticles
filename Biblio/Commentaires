@@ -21,7 +21,7 @@ Rodieck, B., 2007. EllipseFitter Class of ImageJ. http://rsb.info.nih.
 gov/ij/developer/source/ij/process/EllipseFitter.java.html
 
 -Pour l'air perimetre envelope convexe et plein de truc cool : Shape Filter http://imagej.net/Shape_Filter 
-
+-MorphoLibJ : a une section Analyse particles. 
 
 QUESTIONS : 
 Peut être qu'il faudrait aussi dire deux trois trucs sur les options Exclude on Edges et Include Holes. 
